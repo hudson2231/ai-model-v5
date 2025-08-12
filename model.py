@@ -5,6 +5,7 @@ from PIL import Image, ImageFilter, ImageEnhance, ImageOps
 from cog import BasePredictor, Input, Path
 import warnings
 warnings.filterwarnings('ignore')
+print("🚨 DEBUG: NEW CODE IS RUNNING - VERSION 3.0!")
 
 
 class ColorbookLineArtProcessor:
