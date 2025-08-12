@@ -4,4 +4,3 @@ numpy==1.26.4
 scipy==1.11.4
 scikit-image==0.22.0
 torch==2.1.0
-cog==0.8.6
